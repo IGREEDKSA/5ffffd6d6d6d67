@@ -1,1 +1,1 @@
-worker: node config.js
+worker: node music.js
