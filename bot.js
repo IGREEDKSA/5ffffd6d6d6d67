@@ -337,7 +337,7 @@ client.on('message', message => {
         .addField('avatar', "افاتار الشخص المطلوب")
         .addField('gif', 'البحث عن جيف انت تطلبه')
         .addField('ping', 'معرفة ping البوت')
-        .setFooter('المزيد قريبا ان شاء الله!')
+        .setFooter('By : ! Abdulaziz ~ Busy')
       message.channel.send(helpEmbed);
     }
 });
